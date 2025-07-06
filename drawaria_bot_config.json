@@ -1,0 +1,31 @@
+{
+    "playground_button": {
+        "x": 708,
+        "y": 511
+    },
+    "canvas_top_left": {
+        "x": 354,
+        "y": 130
+    },
+    "canvas_bottom_right": {
+        "x": 992,
+        "y": 661
+    },
+    "chat_input_box": {
+        "x": 1060,
+        "y": 641
+    },
+    "alert_ok_button": {
+        "x": 855,
+        "y": 190
+    },
+    "alert_detection_pixel_pixel": {
+        "x": 854,
+        "y": 189
+    },
+    "alert_detection_pixel_color": [
+        1,
+        48,
+        81
+    ]
+}
